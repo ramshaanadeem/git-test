@@ -4,6 +4,7 @@
   "description": "first project",
   "main": "index.html",
   "dependencies": {
+    "bootstrap-social": "^5.1.1",
     "jquery": "^3.5.1"
   },
   "devDependencies": {},
