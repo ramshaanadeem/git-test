@@ -4,8 +4,11 @@
   "description": "first project",
   "main": "index.html",
   "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.14.0",
+    "@popperjs/core": "^2.4.4",
     "bootstrap-social": "^5.1.1",
     "jquery": "^3.5.1"
+    
   },
   "devDependencies": {},
   "scripts": {
@@ -20,5 +23,7 @@
   "bugs": {
     "url": "https://github.com/ramshaanadeem/git-test/issues"
   },
+  
   "homepage": "https://github.com/ramshaanadeem/git-test#readme"
+  
 }
